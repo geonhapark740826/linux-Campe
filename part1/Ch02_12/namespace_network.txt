@@ -1,6 +1,9 @@
 # 실습에 루트 권한 필요 
 sudo su
 
+# 네트워크 명령어 ip
+ifconfig --> ip addr 로 변경됨
+
 # 새로운 네트워크 네임스페이스 생성 
 ip netns add ns0
 ip netns add ns1
