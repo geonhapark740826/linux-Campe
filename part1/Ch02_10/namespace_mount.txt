@@ -1,3 +1,5 @@
+*namesapces 란? 프로세스별로 별도의 커널 자원을 분할하는 리눅스 커널의 기능
+
 # unshare 명령어 확인
 unshare --help
 
